@@ -1,2 +1,2 @@
-- Lark and Anycross Integration Guide for Recruitment Automation
+- Lark and Anycross Integration Guide for other Automation flow like Recruitment Automation, Daily Report,...
 - This document includes a RAR file containing the Anycross flow and instructions for end-user on Lark Base.
